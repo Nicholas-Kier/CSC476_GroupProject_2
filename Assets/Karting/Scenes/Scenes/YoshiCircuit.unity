@@ -590,6 +590,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3226653419945445782, guid: 3e710d30d19db88438ea9e3687029c61,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d6706b85bb0fac94b8d826a2206a2e85, type: 2}
+    - target: {fileID: 4100119232607818105, guid: 3e710d30d19db88438ea9e3687029c61,
+        type: 3}
+      propertyPath: m_Name
+      value: Water's Edge
+      objectReference: {fileID: 0}
     - target: {fileID: 6214193326747842315, guid: 3e710d30d19db88438ea9e3687029c61,
         type: 3}
       propertyPath: m_LocalPosition.x

@@ -1,12 +1,36 @@
 fileFormatVersion: 2
 guid: 2e30c3437f8aca642848dac8aec6eefc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1870912841618708994
+    second: ys_kusaALL1_0
+  - first:
+      213: 2300808998556180452
+    second: ys_kusaALL1_1
+  - first:
+      213: -4101880276196008781
+    second: ys_kusaALL1_2
+  - first:
+      213: -3122796014240017403
+    second: ys_kusaALL1_0
+  - first:
+      213: 5513880427455897447
+    second: ys_kusaALL1_1
+  - first:
+      213: -8527915607872039851
+    second: ys_kusaALL1_2
+  - first:
+      213: 7136871995272021503
+    second: ys_kusaALL1_3
+  - first:
+      213: 6297312772252278196
+    second: ys_kusaALL1_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -34,13 +58,13 @@ TextureImporter:
     filterMode: -1
     aniso: 0
     mipBias: -100
-    wrapU: -1
-    wrapV: -1
+    wrapU: 1
+    wrapV: 1
     wrapW: -1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,7 +75,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -97,7 +121,128 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ys_kusaALL1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d731029999a4d0800000000000000
+      internalID: -3122796014240017403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys_kusaALL1_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -2}
+        - {x: -35, y: -2}
+        - {x: -49, y: -8}
+        - {x: -61, y: -41}
+        - {x: -61, y: -64}
+        - {x: 62, y: -64}
+        - {x: 62, y: -35}
+        - {x: 59, y: -22}
+      - - {x: -64, y: 64}
+        - {x: -64, y: -2}
+        - {x: 64, y: -2}
+        - {x: 64, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fdc74f80d358c40800000000000000
+      internalID: 5513880427455897447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys_kusaALL1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd72a1f913317c0800000000000000
+      internalID: -4101880276196008781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys_kusaALL1_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54f9554434b0360800000000000000
+      internalID: 7136871995272021503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ys_kusaALL1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd90ad0a9c846750800000000000000
+      internalID: 6297312772252278196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
