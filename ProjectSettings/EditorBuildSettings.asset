@@ -9,15 +9,24 @@ EditorBuildSettings:
     path: Assets/Karting/Scenes/Scenes/IntroMenu.unity
     guid: d29260d8d84c94bd7ac95807b3da99d4
   - enabled: 1
-    path: Assets/Karting/Scenes/MainScene.unity
-    guid: 92786e23da2af4a4f8803aaf44c47121
+    path: Assets/Karting/Scenes/Scenes/LevelSelect.unity
+    guid: 922790302a94bc24b919bddf1113f6a6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Karting/Scenes/Scenes/LoseScene.unity
-    guid: 9c449e01147824b419cda406398fb2e7
+    path: Assets/Karting/Scenes/Scenes/LuigiCircuit.unity
+    guid: 3c385badd993f324b919b58a43af3bfe
+  - enabled: 1
+    path: Assets/Karting/Scenes/Scenes/YoshiCircuit.unity
+    guid: a2c885d624d8f6e4dab41bd5f67d688f
+  - enabled: 1
+    path: Assets/Karting/Scenes/Scenes/MarioCircuit.unity
+    guid: bfbd0856325349f4a8d960b3381dd59f
   - enabled: 1
     path: Assets/Karting/Scenes/Scenes/WinScene.unity
     guid: d6801f2e59f75ee4b919cf5da4e48e3b
   - enabled: 1
-    path: Assets/Karting/Scenes/Scenes/LuigiCircuit.unity
-    guid: 3c385badd993f324b919b58a43af3bfe
+    path: Assets/Karting/Scenes/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
   m_configObjects: {}
