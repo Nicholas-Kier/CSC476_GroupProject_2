@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 52c290cca820bd14bb8d9ec4aab2902a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4561696174815810209
+    second: GameCube - Mario Kart Double Dash - Track Icons_0
+  - first:
+      213: 1956656894496858427
+    second: GameCube - Mario Kart Double Dash - Track Icons_1
+  - first:
+      213: 6715614371849274276
+    second: GameCube - Mario Kart Double Dash - Track Icons_2
+  - first:
+      213: -1819188494295758128
+    second: GameCube - Mario Kart Double Dash - Track Icons_3
+  - first:
+      213: -6121406411576150616
+    second: GameCube - Mario Kart Double Dash - Track Icons_4
+  - first:
+      213: -8015050937494124287
+    second: GameCube - Mario Kart Double Dash - Track Icons_5
+  - first:
+      213: -977196356126322570
+    second: GameCube - Mario Kart Double Dash - Track Icons_6
+  - first:
+      213: -610282428049507355
+    second: GameCube - Mario Kart Double Dash - Track Icons_7
+  - first:
+      213: -1693042978697114671
+    second: GameCube - Mario Kart Double Dash - Track Icons_8
+  - first:
+      213: -2971660836826855281
+    second: GameCube - Mario Kart Double Dash - Track Icons_9
+  - first:
+      213: 8421085418281040513
+    second: GameCube - Mario Kart Double Dash - Track Icons_10
+  - first:
+      213: 3708958580253324100
+    second: GameCube - Mario Kart Double Dash - Track Icons_11
+  - first:
+      213: 5058188493085808359
+    second: GameCube - Mario Kart Double Dash - Track Icons_12
+  - first:
+      213: -3631167084752570856
+    second: GameCube - Mario Kart Double Dash - Track Icons_13
+  - first:
+      213: 9125848158760076353
+    second: GameCube - Mario Kart Double Dash - Track Icons_14
+  - first:
+      213: -7973059354026180459
+    second: GameCube - Mario Kart Double Dash - Track Icons_15
+  - first:
+      213: 8648363492999779138
+    second: GameCube - Mario Kart Double Dash - Track Icons_16
+  - first:
+      213: -2990201075338308182
+    second: GameCube - Mario Kart Double Dash - Track Icons_17
+  - first:
+      213: -7963826231497488495
+    second: GameCube - Mario Kart Double Dash - Track Icons_18
+  - first:
+      213: 8512697667398103583
+    second: GameCube - Mario Kart Double Dash - Track Icons_19
+  - first:
+      213: -4035864817211473059
+    second: GameCube - Mario Kart Double Dash - Track Icons_20
+  - first:
+      213: 209591462577572
+    second: GameCube - Mario Kart Double Dash - Track Icons_21
+  - first:
+      213: 8620281708665780647
+    second: GameCube - Mario Kart Double Dash - Track Icons_22
+  - first:
+      213: -8370463182194296202
+    second: GameCube - Mario Kart Double Dash - Track Icons_23
+  - first:
+      213: -337574089025093289
+    second: GameCube - Mario Kart Double Dash - Track Icons_24
+  - first:
+      213: 5123335445367930313
+    second: GameCube - Mario Kart Double Dash - Track Icons_25
+  - first:
+      213: 6173343501895807897
+    second: GameCube - Mario Kart Double Dash - Track Icons_26
+  - first:
+      213: -150185109500633601
+    second: GameCube - Mario Kart Double Dash - Track Icons_27
+  - first:
+      213: 5287146354226586981
+    second: GameCube - Mario Kart Double Dash - Track Icons_28
+  - first:
+      213: -8385044935459420758
+    second: GameCube - Mario Kart Double Dash - Track Icons_29
+  - first:
+      213: -1492054078008274272
+    second: GameCube - Mario Kart Double Dash - Track Icons_30
+  - first:
+      213: -7883293340996491027
+    second: GameCube - Mario Kart Double Dash - Track Icons_31
+  - first:
+      213: 3378497007526959597
+    second: GameCube - Mario Kart Double Dash - Track Icons_32
+  - first:
+      213: -7793762296851654865
+    second: GameCube - Mario Kart Double Dash - Track Icons_33
+  - first:
+      213: 6781839819600613926
+    second: GameCube - Mario Kart Double Dash - Track Icons_34
+  - first:
+      213: -5289024688745431286
+    second: GameCube - Mario Kart Double Dash - Track Icons_35
+  - first:
+      213: 7253654266224729783
+    second: GameCube - Mario Kart Double Dash - Track Icons_36
+  - first:
+      213: 4017849933810037288
+    second: GameCube - Mario Kart Double Dash - Track Icons_37
+  - first:
+      213: 1514712208020925609
+    second: GameCube - Mario Kart Double Dash - Track Icons_38
+  - first:
+      213: -5589357472857650757
+    second: GameCube - Mario Kart Double Dash - Track Icons_39
+  - first:
+      213: -5105758309039938151
+    second: GameCube - Mario Kart Double Dash - Track Icons_40
+  - first:
+      213: 7409697562148985132
+    second: GameCube - Mario Kart Double Dash - Track Icons_41
+  - first:
+      213: -559760932151193223
+    second: GameCube - Mario Kart Double Dash - Track Icons_42
+  - first:
+      213: 3807853550832099345
+    second: GameCube - Mario Kart Double Dash - Track Icons_43
+  - first:
+      213: -5172799614823051482
+    second: GameCube - Mario Kart Double Dash - Track Icons_44
+  - first:
+      213: 2516781901418303699
+    second: GameCube - Mario Kart Double Dash - Track Icons_45
+  - first:
+      213: -9108280705365296346
+    second: GameCube - Mario Kart Double Dash - Track Icons_46
+  - first:
+      213: 8593341416705571862
+    second: GameCube - Mario Kart Double Dash - Track Icons_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCube - Mario Kart Double Dash - Track Icons_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1117
+        width: 215
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2972980866e4f30800000000000000
+      internalID: 4561696174815810209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mario Kart Double Dash - Track Icons_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 999
+        width: 213
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31edc72411772b10800000000000000
+      internalID: 1956656894496858427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mario Kart Double Dash - Track Icons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 213
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3859ab0b7a23d50800000000000000
+      internalID: 6715614371849274276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mario Kart Double Dash - Track Icons_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 606
+        width: 223
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0602f3b1f0c6e0800000000000000
+      internalID: -1819188494295758128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mario Kart Double Dash - Track Icons_4
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 476
+        width: 228
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a574302d456c0ba0800000000000000
+      internalID: -6121406411576150616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 903d78f8ffcefa34698ffd53233be6ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
